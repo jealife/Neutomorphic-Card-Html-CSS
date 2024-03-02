@@ -103,7 +103,7 @@ border-radius: 8px;
 box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
 }
 
-@media (min-width: 720px){
+@media (max-width: 720px){
   .card{
   width:75%;
   
