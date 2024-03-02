@@ -87,7 +87,7 @@ box-shadow: 15.10px 15.12px 10px #D9DADE, -15.12px -15.12px 10px #FFFFFF;
     padding: 2rem 0;
 }
 .card-buttons button{
-font-size:1.25rem;
+font-size:1rem;
     border:none;
     padding: 1rem 2rem;
      background: #EEF0F4;
@@ -98,7 +98,7 @@ box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
 @media (max-width: 991.98px){
   card{
   padding: 2rem;
-  width:80%;
+  width:75%;
   background: #EEF0F4;
 border-radius: 16px;
 box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
