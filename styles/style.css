@@ -92,12 +92,12 @@ box-shadow: 15.10px 15.12px 10px #D9DADE, -15.12px -15.12px 10px #FFFFFF;
     align-items:center;
     justify-content: space-between;
     padding: 2rem 0;
-   
+    gap:2rem;
 }
 .card-buttons button{
 font-size:1rem;
     border:none;
-    padding: 1rem 2rem;
+    padding: 1rem 1.26rem;
      background: #EEF0F4;
 border-radius: 8px;
 box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
