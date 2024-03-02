@@ -61,8 +61,8 @@ object-fit: cover ;
 }
 
 .card-content{
-padding :1rem 0;
-    display: flex;
+  padding :1rem 0;
+  display: flex;
   align-items: center;
   flex-direction: column;
   gap:.5rem;
@@ -95,6 +95,7 @@ box-shadow: 15.10px 15.12px 10px #D9DADE, -15.12px -15.12px 10px #FFFFFF;
     gap:2rem;
 }
 .card-buttons button{
+  cursor:pointer;
 font-size:1rem;
     border:none;
     padding: 1rem 1.26rem;
