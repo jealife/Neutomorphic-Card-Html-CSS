@@ -23,7 +23,7 @@ h1,span,h2,h3{
 }
 .card{
   padding: 2rem;
-  width:345px;
+  width:380px;
   background: #EEF0F4;
 border-radius: 16px;
 box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
@@ -104,7 +104,7 @@ box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
 }
 
 @media (min-width: 720px){
-  card{
+  .card{
   width:75%;
   
   }
