@@ -102,13 +102,10 @@ border-radius: 8px;
 box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
 }
 
-@media (max-width: 991.98px){
+@media (max-width: 720px){
   card{
   padding: 2rem;
-  width:75%;
-  background: #EEF0F4;
-border-radius: 16px;
-box-shadow: 20.12px 20.12px 15px #D9DADE, -20.12px -20.12px 15px #FFFFFF;
+  width:350px;
   
-}
+  }
 }
